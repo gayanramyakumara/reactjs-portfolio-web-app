@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Fully responsive company / personal portfolio web app
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,5 +70,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Sample Screenshots
+
+![alt text](https://github.com/gayanramyakumara/reactjs_portfolio/blob/main/public/screenshots/home_page.PNG?raw=true)
+
+![alt text](https://github.com/gayanramyakumara/reactjs_portfolio/blob/main/public/screenshots/projects.PNG?raw=true)
+
+![alt text](https://github.com/gayanramyakumara/reactjs_portfolio/blob/main/public/screenshots/contact.PNG?raw=true)
 
 Enjoy
