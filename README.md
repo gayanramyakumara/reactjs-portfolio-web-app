@@ -73,7 +73,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 Sample Screenshots
 
-![alt text](https://github.com/gayanramyakumara/reactjs_portfolio/blob/main/public/screenshots/home_page.PNG?raw=true)
+![alt text](https://github.com/gayanramyakumara/reactjs-portfolio-web-app/blob/main/public/screenshots/home_animation.gif?raw=true)
 
 ![alt text](https://github.com/gayanramyakumara/reactjs_portfolio/blob/main/public/screenshots/projects.PNG?raw=true)
 
